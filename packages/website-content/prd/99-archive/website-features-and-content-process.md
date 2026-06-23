@@ -2,7 +2,7 @@
 
 > **Draft notes — not requirements.** Translated from a spoken brainstorming
 > transcript and lightly structured. Items are ideas and open questions, not
-> decisions.
+> decisions. Archived raw source for the website requirements hub.
 
 ## Public vs. non-public content model
 

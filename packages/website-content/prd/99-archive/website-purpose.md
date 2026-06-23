@@ -1,7 +1,8 @@
 # Website Purpose (Draft)
 
 > **Draft notes — not requirements.** Translated from a spoken brainstorming
-> transcript and lightly structured.
+> transcript and lightly structured. Archived raw source for the website
+> requirements hub.
 
 ## Context
 

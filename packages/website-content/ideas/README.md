@@ -1,14 +1,20 @@
 # Website Ideas (Drafts)
 
-> **Status: early drafts.** These documents are translated, lightly structured
-> transcripts of brainstorming notes about the OrgOS Collective website. They are
-> **ideas and intentions, not finalized requirements.** Nothing here is approved,
-> prioritized, or specified to a level suitable for implementation. Treat them as
-> raw input for a later requirements process.
+> **Status: archived input.** The early brainstorming drafts that lived here have
+> been moved into the structured requirements hub and are preserved verbatim in the
+> archive.
 
-## Contents
+## Where the content went
 
-- [Website Purpose](./website-purpose.md) — why the website exists and who it serves.
-- [Website Features and Content Process](./website-features-and-content-process.md) —
-  feature ideas (login, payments, tracking, content types) and the envisioned
-  content creation and publishing workflow.
+The raw drafts (`website-purpose.md` and
+`website-features-and-content-process.md`) were restructured into the 6-part
+requirements hierarchy under [`../prd/`](../prd/README.md):
+
+- Strategy, KPIs, personas → `prd/01-strategy-and-research/`
+- Sitemap & user journeys → `prd/02-ux-and-information-architecture/`
+- Feature epics (auth, payments, content, tracking, …) → `prd/03-functional-requirements/`
+- Stack & non-functional requirements → `prd/04-technical-specs-and-quality/`
+- Copy deck & brand assets → `prd/05-content-and-media-assets/`
+
+The original verbatim drafts are kept in
+[`../prd/99-archive/`](../prd/99-archive/) for reference.
