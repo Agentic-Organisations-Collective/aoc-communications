@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-communications/website-content",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Source content for the public website."
+}

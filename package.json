@@ -1,0 +1,15 @@
+{
+  "name": "aoc-communications",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Public communications of the Agentic Organisations Collective: event teasers, announcements, press, website content, and social posts, organized as a pnpm monorepo.",
+  "packageManager": "pnpm@10.26.0",
+  "scripts": {
+    "lc:init": "leafcutter-os-init",
+    "lc:sync": "leafcutter-os-sync --vendors copilot"
+  },
+  "devDependencies": {
+    "@schafe-vorm-fenster/cli": "^0.4.1",
+    "@schafe-vorm-fenster/config": "^0.3.2"
+  }
+}

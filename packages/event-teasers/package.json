@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-communications/event-teasers",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Short promotional teasers announcing upcoming events."
+}

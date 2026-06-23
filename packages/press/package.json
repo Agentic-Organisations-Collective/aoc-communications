@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-communications/press",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Press releases and media-facing materials."
+}

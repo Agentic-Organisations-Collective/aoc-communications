@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-communications/announcements",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Official announcements from the collective to the public."
+}
