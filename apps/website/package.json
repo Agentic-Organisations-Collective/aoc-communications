@@ -1,0 +1,6 @@
+{
+  "name": "@aoc-communications/website",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The Agentic Organisations Collective public + members website (app). See docs/ for requirements (PRD), decisions (ADRs), and architecture."
+}
