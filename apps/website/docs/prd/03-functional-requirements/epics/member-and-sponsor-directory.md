@@ -24,9 +24,21 @@ member records.
   (see [Legal & Compliance](../../04-quality-and-compliance/legal-and-compliance.md)).
 - **Sponsors** are also shown, possibly on the **same page** as the member list.
 
+## Phasing (decided)
+
+- **Phase 1 — static founding subset:** ship a **static** founding-members and
+  -sponsors list built from the existing register data
+  (`aoc-board/packages/register`). This has **no auth or live-member-data
+  dependency**, so it can launch with the MVP as a **credibility / self-presentation**
+  win and a **launch gate** (see
+  [Roadmap & Phasing](../../roadmap-and-phasing.md#phase-1--mvp-public-presence--event-content--read-only-member-area)).
+- **Phase 2 — full live directory:** the auto-built, opt-out directory described
+  above supersedes the static list once member records and the opt-out flag exist
+  (depends on E1 full + E2).
+
 ## Dependencies
 
-- User data and opt-out flag: [E1](./auth-and-user-management.md).
+- User data and opt-out flag: [E1](./auth-and-user-management.md) (full directory only).
 - Sponsor records: [E3](./donations-and-sponsorships.md).
 
 ## Open questions

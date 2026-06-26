@@ -74,6 +74,4 @@
 | Payment provider | [ADR-0003](../decisions/0003-payment-provider.md) |
 | Membership billing model | [ADR-0004](../decisions/0004-membership-billing-model.md) |
 | Web analytics | [ADR-0005](../decisions/0005-web-analytics.md) |
-| Email & newsletter | [ADR-0006](../decisions/0006-email-and-newsletter.md) |
-| Forum platform | [ADR-0007](../decisions/0007-forum-platform.md) |
 | Frontend framework | [ADR-0008](../decisions/0008-frontend-framework.md) |

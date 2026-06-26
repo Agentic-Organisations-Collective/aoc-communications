@@ -1,40 +1,20 @@
-# ADR-0007: Members' forum platform (later phase)
+# ADR-0007: Members' forum platform
 
-- **Status:** Proposed — decision deferred; feature itself is a **later phase**
+- **Status:** Rejected — out of scope (no on-site forum)
 - **Date:** 2026-06-23
-- **Deciders:** Technical team
+- **Deciders:** Board
 - **Related:** [Roadmap & Phasing](../prd/roadmap-and-phasing.md)
 
 ## Context
 
-Members want an **exchange forum** to share content relatively freely with other
-experts, without publishing to the open internet. This is **not** in the MVP — it is
-planned for a later phase — but we record options now.
-
-## Options considered
-
-### Option A — Integrate Discourse (EU-hosted)
-
-- **Pros:** Mature, feature-rich, SSO with our auth, moderation tools.
-- **Cons:** Separate app to host/maintain; another UX to theme.
-
-### Option B — GitHub Discussions
-
-- **Pros:** Already in our GitHub-centric workflow; zero hosting; good for technical
-  members.
-- **Cons:** Requires GitHub accounts; not member-gated by our auth; weaker as a
-  community home.
-
-### Option C — Custom build
-
-- **Pros:** Fully tailored and integrated.
-- **Cons:** High effort; reinventing a solved problem.
-
-## Recommendation
-
-If/when prioritised, prefer **Discourse with SSO**. Consider **GitHub Discussions**
-as a lightweight interim given the GitHub-centric stack.
+A members' exchange forum was considered so members could share content privately.
+The board decided **not** to build a forum on the website. Member-to-member
+exchange happens **off-site** in external communities (e.g. **WhatsApp**
+communities) and on **LinkedIn**.
 
 ## Decision
 
-Deferred. The technical team decides later; feature scheduled for a later phase.
+**Out of scope.** The website provides a closed, login-secured member area with
+**member-only content**, but **no forum** or on-site discussion feature.
+
+Revisit with a **new ADR** only if hosting an on-site community becomes a real need.

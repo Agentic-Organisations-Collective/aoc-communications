@@ -16,8 +16,8 @@ recommendation → decision (deferred).
 | [ADR-0003](./0003-payment-provider.md) | Payment provider | Proposed |
 | [ADR-0004](./0004-membership-billing-model.md) | Membership billing model | Proposed |
 | [ADR-0005](./0005-web-analytics.md) | Web analytics (cookieless) | Proposed |
-| [ADR-0006](./0006-email-and-newsletter.md) | Email (transactional) & newsletter | Proposed |
-| [ADR-0007](./0007-forum-platform.md) | Members' forum platform (later phase) | Proposed |
+| [ADR-0006](./0006-email-and-newsletter.md) | Email & newsletter | Rejected (out of scope) |
+| [ADR-0007](./0007-forum-platform.md) | Members' forum platform | Rejected (out of scope) |
 | [ADR-0008](./0008-frontend-framework.md) | Frontend framework (Astro + Svelte) | Proposed |
 
 ## How to use

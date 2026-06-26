@@ -38,8 +38,8 @@ Ready-to-use benefit copy (from the drafts):
   **curatorium** (which owns the subject-matter direction and curation of events) —
   i.e. have a say.
 - **Access to member-only event content.**
-- An **exchange forum** to share content relatively freely with other experts and
-  learn from each other, without publishing everything to the open internet.
+- **Exchange with other experts off-site** (e.g. WhatsApp communities or LinkedIn) —
+  the website itself has no forum.
 
 > The page also surfaces the membership **categories and fees** (researcher, public
 > authority, company by size, individual) — see
@@ -68,8 +68,8 @@ Ready-to-use sponsor benefit copy (from the drafts):
 
 ## Members area
 
-- **Members dashboard, member-only articles, full event documentation, exchange
-  forum, account/profile settings** — _copy TBD._
+- **Members dashboard, member-only articles, full event documentation,
+  account/profile settings** — _copy TBD._
 
 ## Notes
 

@@ -22,7 +22,7 @@
 - **Brand-new person:** registers → lands in an inbox where the board decides
   whether/when they become a member.
 - **Pre-registered member:** already exists in user management (invited or onboarded
-  offline, added manually by email) → on registering they **immediately** get a
+  offline, added manually) → on registering they **immediately** get a
   login and are already a member. _(Important use case.)_
 
 ## 2. Membership application & payment
@@ -39,7 +39,8 @@
 5. A **board member** approves the application and manages its status (possibly
    involving several people) via user management.
 6. On approval, the user becomes a **member on probation** ("auf Vorbehalt"): they
-   can log in and view content, and receive an email prompting payment.
+   can log in and view content, and are **prompted to pay in the member area** (no
+   email).
 7. They get a **payment link**, pay online, and may optionally add a small **sponsor
    contribution**.
 8. Once payment is received, the user moves from **"on probation"** to

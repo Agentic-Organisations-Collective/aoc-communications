@@ -20,6 +20,16 @@ cookie banner.
   ad pixels (LinkedIn/Twitch/Google) are an **ads-later** decision that would
   introduce consent.
 
+## Phasing (decided)
+
+- **Phase 1, but *not* a launch gate.** E7 is a *Should*-have scheduled for the MVP
+  window and **strongly recommended** to ship with launch, but it **does not block
+  go-live** (see
+  [Roadmap & Phasing](../../roadmap-and-phasing.md#phase-1--mvp-public-presence--event-content--read-only-member-area)).
+- **Recorded trade-off:** the reach KPIs (traffic by source, LinkedIn referral
+  share, monthly visitors) are **unmeasurable until E7 ships** — if it slips, the
+  site launches **blind on reach** and those KPIs start late.
+
 ## Dependencies
 
 - Feeds the KPIs in

@@ -22,8 +22,8 @@ Registration, login, and the user-management layer that gates members-only conte
 - **Brand-new person:** registers → application lands in an inbox where the board
   decides whether/when they become a member.
 - **Pre-registered member:** already exists in user management (invited / onboarded
-  offline / added manually by email) → on registering they **immediately** get a
-  login and are already a member. _(Important use case.)_
+  offline / added manually) → on registering they **immediately** get a login and
+  are already a member. _(Important use case.)_
 
 ## User data model (keep lean)
 

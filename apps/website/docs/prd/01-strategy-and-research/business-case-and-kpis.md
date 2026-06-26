@@ -36,7 +36,7 @@ The website serves five core purposes:
 | Campaign performance | Conversions per campaign; cost per acquisition (if ads run) |
 | Payment | Fees paid online; time from approval to payment |
 | Sponsorship | Sponsor sign-ups; sponsor-funded event budget |
-| Engagement | Members-area logins; content views; forum participation |
+| Engagement | Members-area logins; content views |
 
 ## Proposed initial targets (first 12 months)
 
@@ -57,8 +57,8 @@ The website serves five core purposes:
 
 - Whether paid ads (LinkedIn, Twitch, Google) are needed, or organic reach suffices
   (**decided: decide later**).
-- Whether a newsletter is part of the channel mix (**deferred** —
-  [ADR-0006](../../decisions/0006-email-and-newsletter.md)).
+- _(Resolved)_ **No newsletter / email channel** — outreach uses LinkedIn / WhatsApp
+  ([ADR-0006](../../decisions/0006-email-and-newsletter.md)).
 - Final sign-off on the target numbers above.
 
 > **Tracking note:** KPI measurement depends on the analytics approach in

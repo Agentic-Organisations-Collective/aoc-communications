@@ -32,7 +32,7 @@
 
 ## Data protection
 
-- [ ] **EU data residency** preferred for hosting, auth, analytics, and email.
+- [ ] **EU data residency** preferred for hosting, auth, and analytics.
 - [ ] **Data minimisation**: keep user fields lean (see
       [E1](../03-functional-requirements/epics/auth-and-user-management.md)).
 - [ ] **Member directory consent**: the directory uses an **opt-out** model (members
@@ -40,7 +40,8 @@
       able to opt out **easily**; ensure a lawful basis and a documented process
       (see [E6](../03-functional-requirements/epics/member-and-sponsor-directory.md)).
 - [ ] **Processor agreements (AVV/DPA)** with each third-party provider.
-- [ ] **Minimise email** and only with a lawful basis
+- [ ] **No email/newsletter system** — outreach uses LinkedIn / WhatsApp; if email
+      is ever introduced it must have a lawful basis
       ([ADR-0006](../../decisions/0006-email-and-newsletter.md)).
 - [ ] **Event media consent**: obtain **speaker consent before publishing** photos,
       video, or slides (see

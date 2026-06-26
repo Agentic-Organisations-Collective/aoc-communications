@@ -33,9 +33,9 @@ payment.
 2. A **board member** approves the application and manages its status (possibly
    several people involved) via user management.
 3. On approval the user becomes a **member on probation** ("auf Vorbehalt"): can log
-   in and view content, and receives an email prompting payment.
-4. The user gets a **payment link**, pays the fee online, and may optionally add a
-   small **sponsor contribution**.
+   in and view content, and is **prompted to pay in the member area** (no email).
+4. The user is shown a **payment link / checkout**, pays the fee online, and may
+   optionally add a small **sponsor contribution**.
 5. Once payment is received, the user moves from **"on probation"** to
    **"activated"**.
 
@@ -43,8 +43,9 @@ payment.
 > does not pay, the board handles it as a **manual process**.
 >
 > **Phase note:** registration and payment are **Phase 2** (see
-> [Roadmap & Phasing](../../roadmap-and-phasing.md)); email is minimised
-> ([ADR-0006](../../../decisions/0006-email-and-newsletter.md)).
+> [Roadmap & Phasing](../../roadmap-and-phasing.md)). There is **no email/newsletter
+> system** ([ADR-0006](../../../decisions/0006-email-and-newsletter.md)); payment
+> prompts and follow-up are **in-app or manual**.
 
 ## Dependencies
 

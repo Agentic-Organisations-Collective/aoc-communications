@@ -34,7 +34,6 @@ Members area (behind login)
 ├── Members dashboard
 ├── Member-only content & professional articles
 ├── Event documentation (full)     (slide PDFs, video/photo documentation)
-├── Exchange forum                  (later phase — deferred)
 └── Account / profile & display settings
 ```
 
@@ -50,7 +49,8 @@ Members area (behind login)
 ## Decisions & open questions
 
 - **Decided:** content is **English only**; short-form posts/news live **on-site and
-  on LinkedIn**; the **exchange forum is deferred** to a later phase.
+  on LinkedIn**. **No on-site forum** — member-to-member exchange happens off-site
+  (e.g. WhatsApp communities / LinkedIn).
 - **Decided:** **no on-site search** in the MVP; a future **AI chat ("ask anything")**
   across the content is preferred over a classic search (later phase).
 - **Decided:** events are **announcement-only with link-out** (no on-site RSVP).

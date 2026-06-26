@@ -60,6 +60,4 @@ The agent-assisted content intake, generation, review, and publishing pipeline.
 
 ## Open questions
 
-- Whether a **newsletter** is included
-  ([ADR-0006](../../../decisions/0006-email-and-newsletter.md)).
 - Automated consistency-check steps before curatorium review.

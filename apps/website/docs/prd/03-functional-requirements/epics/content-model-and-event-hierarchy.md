@@ -72,5 +72,3 @@ events.
 
 - Whether the website carries only professional articles, with short forms teased
   and the rest on LinkedIn.
-- Whether a **blog** and/or **newsletter** are part of the model
-  ([ADR-0006](../../../decisions/0006-email-and-newsletter.md)).

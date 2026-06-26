@@ -28,7 +28,8 @@ the website must do and *why* — **requirements only**. Solution specs live in
 | Folder | Contents |
 | :---- | :---- |
 | `README.md` (this file) | PRD index & reading guide |
-| `roadmap-and-phasing.md` | Release phases (MVP first) |
+| `executive-summary.md` | **One-page manager's overview** (start here for the big picture) |
+| `roadmap-and-phasing.md` | Release phases & milestones (MVP first) |
 | `sources-and-references.md` | Single sources of truth & external resources (GitHub, LinkedIn, domain) |
 | `01-strategy-and-research/` | Business case, KPIs, personas, benchmarks |
 | `02-ux-and-information-architecture/` | Sitemap, navigation, user journey flows |

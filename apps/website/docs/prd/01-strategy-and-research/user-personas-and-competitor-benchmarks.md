@@ -32,8 +32,8 @@ immediately during application.
   public content and events, and applies to join.
 - **Pre-known member** — already onboarded offline / invited; registers online and
   is immediately recognised as a member.
-- **Active member** — logs in for member-only content, event documentation, and the
-  exchange forum; may contribute talks and professional articles.
+- **Active member** — logs in for member-only content and event documentation; may
+  contribute talks and professional articles.
 - **Sponsor** — an organisation funding event formats in exchange for visibility and
   access to member events.
 
@@ -46,8 +46,8 @@ immediately during application.
   - Bodies and roles are defined in the bylaws: `aoc-governance/packages/bylaws`
     (see [Sources & References](../sources-and-references.md)).
 - **Access member-only event content.**
-- Use an **exchange forum** to share content relatively freely with other experts,
-  without publishing everything to the open internet.
+- **Exchange with other experts** — happens off-site (e.g. WhatsApp communities or
+  LinkedIn), not via an on-site forum.
 
 ## Sponsor motivations
 
