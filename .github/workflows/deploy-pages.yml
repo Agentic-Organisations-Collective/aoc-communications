@@ -1,0 +1,50 @@
+name: Deploy website to GitHub Pages
+
+# Publishes the public website to GitHub Pages.
+#
+# Current state: serves the static coming-soon placeholder in
+# apps/website/placeholder/. When the real site (Astro + Svelte, see
+# apps/website/docs/decisions/0008-frontend-framework.md) lands, replace the
+# "Upload static placeholder" step with a build step (pnpm install + astro build)
+# and point the artifact at the build output (e.g. apps/website/dist).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'apps/website/placeholder/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+
+# Allow this workflow to publish to Pages via OIDC.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One concurrent deployment; let an in-progress run finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static placeholder
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/website/placeholder
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
