@@ -13,7 +13,10 @@ on **GitHub Pages** immediately, ahead of the real site (Astro + Svelte, see
   font **Kalam** (Google Fonts, OFL), **self-hosted** (latin subset) so no request
   goes to a third-party CDN — keeps the page GDPR-clean and offline-robust.
 - `favicon.svg` — brand mark (blue) for the browser tab.
-- `CNAME` — custom domain published to Pages: `www.agentic-organisations-collective.eu`.
+- `CNAME` — custom domain published to Pages: `agentic-organisations-collective.eu`
+  (apex; matches the configured Pages domain + HTTPS certificate). ADR-0001 names
+  `www` as the long-term canonical — switch the CNAME file and add a `www` cert once
+  `www` DNS is in place.
 - `.nojekyll` — disables Jekyll processing on Pages.
 
 ## How it deploys
