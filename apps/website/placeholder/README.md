@@ -1,17 +1,17 @@
 # Website placeholder (coming soon)
 
 Temporary static **coming-soon** page for the public website: the brand mark
-(Papyrus Cream) and the name in the brand display font (**Kalam**), centered on an
-Electric Cobalt Blue (`#1D4ED8`) background. It exists so the public tier can go live
+(Papyrus Cream) and the name in a modern geometric display font (**Outfit**),
+centered on an Electric Cobalt Blue (`#1D4ED8`) background. It exists so the public tier can go live
 on **GitHub Pages** immediately, ahead of the real site (Astro + Svelte, see
 [`../docs/decisions/0008-frontend-framework.md`](../docs/decisions/0008-frontend-framework.md)).
 
 ## Files
 
 - `index.html` — the page (inline SVG logo + name, no external/runtime dependencies).
-- `fonts/kalam-latin-400.woff2`, `fonts/kalam-latin-700.woff2` — the brand display
-  font **Kalam** (Google Fonts, OFL), **self-hosted** (latin subset) so no request
-  goes to a third-party CDN — keeps the page GDPR-clean and offline-robust.
+- `fonts/outfit-latin-700.woff2` — the display font **Outfit** (Google Fonts, OFL),
+  **self-hosted** (latin subset) so no request goes to a third-party CDN — keeps the
+  page GDPR-clean and offline-robust.
 - `favicon.svg` — brand mark (blue) for the browser tab.
 - `CNAME` — custom domain published to Pages: `agentic-organisations-collective.eu`
   (apex; matches the configured Pages domain + HTTPS certificate). ADR-0001 names
