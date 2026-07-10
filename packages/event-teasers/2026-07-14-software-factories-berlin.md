@@ -3,7 +3,7 @@ type: event
 slug: 2026-07-14-software-factories-berlin
 title: "Software Factories — Deep Dive #2 in Berlin"
 date: 2026-07-14
-location: "CINIQ @ Salzufer 6, 10587 Berlin (Fraunhofer HHI / DFKI showroom)"
+location: "CINIQ @ Salzufer 15-16, 10587 Berlin (Fraunhofer HHI / DFKI showroom)"
 status: announcement
 visibility: public
 cta_url: "https://forms.gle/jhydC7YGWXaoZfs2A"
