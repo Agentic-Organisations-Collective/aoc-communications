@@ -14,5 +14,7 @@ produced from governed source material.
 
 ## Governance
 
-Public read, contributor write. This repo may consume released content from
-governance, but not the other way around.
+Public read, maintainer write. Outward-facing communication is published by the
+board rather than written directly by every member; member contributions are
+taken in through review. This repo may consume released content from governance,
+but not the other way around.
