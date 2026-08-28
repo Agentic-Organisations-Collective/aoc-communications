@@ -1,28 +1,30 @@
-# aoc-communications — Arbeitsanweisungen
+# aoc-communications — Operating Instructions
 
-## Aufgaben sind GitHub Issues
+## Tasks Are GitHub Issues
 
-Beschluss der Vorstandssitzung vom 2026-08-26: **To-dos entstehen als Issue in diesem
-Repo** — nicht als Markdown-Liste, nicht in einer externen To-do-App. Wer eine Aufgabe
-identifiziert, legt sie an, statt sie in eine Datei zu schreiben.
+Resolution of the 2026-08-26 board meeting: **to-dos are created as an issue in this
+repo** — not as a markdown list, not in an external to-do app. Whoever identifies a
+task creates it directly, instead of writing it into a file.
 
-Hierher gehören: öffentliche Außenkommunikation — Ankündigungen, Pressematerial,
-Website-Inhalte, Social Posts. Veranstaltungsplanung und eventbezogene Promotion →
-`aoc-curation`. Der übergreifende Content-Plan liegt beim Vorstand in `aoc-board`.
+Belongs here: public outward communication — announcements, press material,
+website content, social posts. Event planning and event-related promotion →
+`aoc-curation`. The overarching content plan sits with the board in `aoc-board`.
 
-**Dieses Repo ist öffentlich.** Was nicht für die Öffentlichkeit bestimmt ist, gehört
-auch nicht in einen Issue-Text hier — keine Mitgliederdaten, keine Anschriften, keine
-interne Abwägung. Das gehört nach `aoc-board`.
+**This repo is public.** Whatever isn't meant for the public also doesn't belong in an
+issue text here — no member data, no addresses, no internal deliberation. That belongs
+in `aoc-board`.
 
-Ein Issue nennt Anlass, konkrete Aufgabe und Voraussetzungen. Owner wird zugewiesen, wer
-die Aufgabe übernommen hat — bei unklarer Übernahme lieber niemand als der Falsche.
-Aufgaben aus einer Sitzung tragen `sitzung:<YYYY-MM-DD>` und verweisen im Fußtext auf
-das Protokoll.
+An issue names the occasion, the concrete task, and the preconditions. The owner
+assigned is whoever took on the task — when unclear, better nobody than the wrong
+person. Tasks from a meeting carry `sitzung:<YYYY-MM-DD>` and reference the minutes in
+the footer.
 
-Das gilt neben den Content-Konventionen unten: Offenes zu einer Content-Datei kommt
-weiterhin in die `issues.md` daneben — eine *Aufgabe* wird daraus erst als GitHub Issue.
+This applies alongside the content conventions below: open points on a content file
+still go into the `issues.md` next to it — it only becomes a *task* once it's a GitHub
+issue.
 
-## Content-Konventionen
+## Content Conventions
 
-Content-Markdown enthält nur Content; Offenes/Meta gehört in eine `issues.md` daneben.
-Maßgeblich: [.github/instructions/content-conventions.instructions.md](.github/instructions/content-conventions.instructions.md).
+Content markdown contains only content; open points/meta belong in an `issues.md`
+alongside it. Authoritative:
+[.github/instructions/content-conventions.instructions.md](.github/instructions/content-conventions.instructions.md).
