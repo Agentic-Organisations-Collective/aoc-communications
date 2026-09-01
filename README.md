@@ -19,6 +19,15 @@ board rather than written directly by every member; member contributions are
 taken in through review. This repo may consume released content from governance,
 but not the other way around.
 
+## Language
+
+**Everything in this repository is written in English** — documentation, file names,
+issues, pull requests and commit messages. That holds regardless of the language you
+speak with your AI agent; working in German is fine, committing German is not.
+
+Exceptions and full rule:
+[CONTRIBUTING.md](./CONTRIBUTING.md#language-this-repository-is-english).
+
 ## Tasks
 
 **To-dos are GitHub issues in this repository** — not markdown checklists, not an
